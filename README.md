@@ -12,6 +12,6 @@ This project focuses on creating an intelligent IoT system designed to monitor i
 * **IoT Integration:** Connected hardware components with software logic for a complete end-to-end solution.
 
 ## Technical Stack
-* **Languages:** C++, C#
+* **Languages:** Python
 * **Hardware:** Sensors (CO2, Humidity, Temperature), Actuators (Ventilation Fans)
 * **Concepts:** Knowledge-Based Systems, IoT Architecture, Feedback Control

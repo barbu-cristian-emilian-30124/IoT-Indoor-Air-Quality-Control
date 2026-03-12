@@ -1,4 +1,4 @@
-![Project Cover](coperta2.png)
+![Project Cover](coperta1.jpeg)
 # Indoor Air Quality Monitoring and Control System
 **Smart Building Technology | Academic Project | UTCN**
 
